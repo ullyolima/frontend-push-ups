@@ -4,7 +4,7 @@
 
 Site simples construído com o objetivo de exercitar o aprendizado de uma técnica HTML/CSS para centralizar todo o corpo de uma página horizontalmente, deixando todas as secções com mesma largura.
 
-[Voltar para repositório inicial](https://github.com/ullyolima/frontend-push-ups)
+:arrow_backward: [Voltar](https://github.com/ullyolima/frontend-push-ups)
 
 ### Tecnologias utilizadas
 
